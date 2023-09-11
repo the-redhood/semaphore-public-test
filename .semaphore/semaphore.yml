@@ -34,3 +34,4 @@ blocks:
         - name: "Build, Test, Release"
           commands:
             - echo "semaphore public test"
+            - echo "Test public PR"
