@@ -35,3 +35,4 @@ blocks:
           commands:
             - echo "semaphore public test"
             - echo "test"
+            - echo "second change"
